@@ -1,5 +1,5 @@
 # React-Angular-Vue-Routers
-<h2>How to implement the React-Angular-Vue- Rotings
+<h2>How to implement the React-Vue-Angular Rotings
 
 <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg" style="width:30px; height:30px;">
 <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Light.svg" style="width:30px; height:30px;">
