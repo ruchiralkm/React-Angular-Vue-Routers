@@ -37,8 +37,8 @@ export default router;
 ```
 
 <h3>Step 4: Create Vue Components</h3>
-<p>In the src/components folder, create the following two files</p><br/>
-<strong><p>Home.vue</p></strong><br/>
+<p>In the src/components folder, create the following two files</p>
+<strong><p>Home.vue</p></strong>
 
 ```bash
 <template>
