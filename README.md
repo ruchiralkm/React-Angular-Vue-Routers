@@ -241,3 +241,19 @@ nav li {
 
 
 ```
+
+<h3>Step 7: Update <strong> main.js </strong> </h3>
+
+```bash
+import { createApp } from "vue";
+import App from "./App.vue";
+import router from "./router";
+
+const app = createApp(App);
+
+// Use the router
+app.use(router);
+
+app.mount("#app");
+
+```
