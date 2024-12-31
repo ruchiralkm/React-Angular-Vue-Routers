@@ -7,6 +7,13 @@
 
 </h2>
 
+<h2>Download above projects and install the node modules</h2>
+
+```bash
+cd <foleder name> npm install
+```
+
+
 <hr/>
 
 <h1>1. React JS</h1>
