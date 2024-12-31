@@ -4,7 +4,8 @@ How to implement the React-Angular-Vue- Rotings
 React.JS
 <br/>
 
-<h1>1.Install the Vue Router library</h1>
+<h3>1.Install the Vue Router library</h3>
+
 ```bash
 npm install vue-router
 ```
