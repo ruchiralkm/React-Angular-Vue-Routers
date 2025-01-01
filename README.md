@@ -29,7 +29,7 @@ npm install react-router-dom
 ```
 
 <h3>Step 3: Set Up React Router</h3>
-<p>Open the src folder in your project and Create a new folder <b>Pages</b> and Create new file named <b>NavBar.jsx </b> to configure your routes</p>
+<p>Open the src folder in your project and Create a new folder named <b>Pages</b>. Inside <b>Pages</b> folder, Create new file named <b>NavBar.jsx </b> to configure your routes</p>
 <strong><p>NavBar.jsx</p></strong>
 
 ```bash
@@ -108,6 +108,21 @@ function App() {
 }
 
 export default App;
+```
+
+<h3>Step 5: Update main.jsx with the following</h3>
+
+```bash
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import App from "./App.jsx";
+
+createRoot(document.getElementById("root")).render(
+  <StrictMode>
+    <App />
+  </StrictMode>
+);
+
 ```
 
 
